@@ -3,3 +3,4 @@ nltk==3.6.5
 joblib==1.1.0
 beautifulsoup4==4.10.0
 scikit-learn==0.24.2
+click==8.0.4
